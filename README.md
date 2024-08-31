@@ -3,7 +3,7 @@ Make MBinux (own OS)
 
 
 ## Ref
-- https://github.com/s-matyukevich/raspberry-pi-os
+- [how to create a simple operating system (RPi OS) kernel from scratch](https://github.com/s-matyukevich/raspberry-pi-os)
 - [Bare Metal Programming on Raspberry Pi 3](https://github.com/bztsrc/raspi3-tutorial)
 - [How to make an Operating System in C++](https://samypesse.gitbook.io/how-to-create-an-operating-system)
 - [Linux: from scratch](https://www.linuxfromscratch.org/)
